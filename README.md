@@ -4,6 +4,7 @@ la actividad nos tiene como objetivo reforzar lo que se ha enseñado en clases y
 ## **Tecnologías utilizadas**
 
 *   Mongoose
+*   JavaScript
 *   Node.js
 *   Express
 *   MongoDB
